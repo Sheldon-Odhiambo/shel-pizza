@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shel-pizza/static/css/main.e6c13ad2.css",
+    "main.js": "/shel-pizza/static/js/main.adfe80b0.js",
+    "static/js/787.315f7399.chunk.js": "/shel-pizza/static/js/787.315f7399.chunk.js",
+    "static/media/pizza-3.jpg": "/shel-pizza/static/media/pizza-3.f2f9b9a49128f877c57f.jpg",
+    "static/media/featured3.jpg": "/shel-pizza/static/media/featured3.66d68644270582e9ce8d.jpg",
+    "static/media/product-2.jpg": "/shel-pizza/static/media/product-2.4c066971ce4367c6e0bc.jpg",
+    "static/media/product-1.jpg": "/shel-pizza/static/media/product-1.36d084f3e4823b981b4b.jpg",
+    "static/media/sweet-2.jpg": "/shel-pizza/static/media/sweet-2.d5cf1ad2859c7af98ea3.jpg",
+    "static/media/sweet3.jpg": "/shel-pizza/static/media/sweet3.c495c74278ec63462c5e.jpg",
+    "static/media/product-3.jpg": "/shel-pizza/static/media/product-3.115cc32b63d9b7485e7e.jpg",
+    "static/media/sweet-3.jpg": "/shel-pizza/static/media/sweet-3.badeecbe98eb1e099fce.jpg",
+    "index.html": "/shel-pizza/index.html",
+    "main.e6c13ad2.css.map": "/shel-pizza/static/css/main.e6c13ad2.css.map",
+    "main.adfe80b0.js.map": "/shel-pizza/static/js/main.adfe80b0.js.map",
+    "787.315f7399.chunk.js.map": "/shel-pizza/static/js/787.315f7399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.adfe80b0.js"
+  ]
+}
