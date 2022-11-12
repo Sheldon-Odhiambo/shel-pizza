@@ -18,18 +18,17 @@ Created By Sheldon Ouma
 ## Technologies Used
 The following languages have been used on this project:
 
-* HTML
-* CSS
 * React js 
+* Javascript
 
-Live link: 
+Live link: https://sheldon-odhiambo.github.io/shel-pizza/
 
 
 ## Support and contact details 🙂
 * To make a contribution to the code used or any suggestions you can open a pull request on the repo
 
 ## Known Bugs
-* Experienced minor bugs but am coping well with the project  😎
+* Experienced minor bugs but am coping well with the project  😎, took me sometime to debugg
 
 
 ## Email:
