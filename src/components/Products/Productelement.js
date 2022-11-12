@@ -25,7 +25,9 @@ export const ProductImg = styled.img`
   height: 300px;
   min-width: 300px;
   max-width: 100%;
-  box-shadow: 8px 8px #fdc500;
+  box-shadow: 10px 10px 5px 1px rgba(242,242,7,0.8);
+  -webkit-box-shadow: 10px 10px 5px 1px rgba(242,242,7,0.8);
+  -moz-box-shadow: 10px 10px 5px 1px rgba(242,242,7,0.8);;
 `;
 
 export const ProductsHeading = styled.h1`
