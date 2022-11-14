@@ -1,14 +1,14 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
-import { Bars, Nav, NavIcon } from './Navbarelement';
+ import { Bars, Nav, NavIcon } from './Navbarelement';
+import { Link } from 'react-router-dom';
 
 const Navbar = ({ toggle }) => {
 return (
     <>
       <Nav>
-        <NavLink to='/'></NavLink>
+       
         <NavIcon onClick={toggle}>
-          <p>Menu</p>
+          <Link to='/MenuPage'><p>Menu</p></Link>
           <Bars />
         </NavIcon>
       </Nav>
